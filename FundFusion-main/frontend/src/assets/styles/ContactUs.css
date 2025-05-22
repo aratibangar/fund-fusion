@@ -1,0 +1,16 @@
+.contact-bg {
+  background: url("../images/donate2.jpg") no-repeat center center/cover;
+  min-height: 100vh;
+  padding: 50px 20px;
+}
+
+
+.contact-form-container {
+  max-width: 500px;
+  width: 100%;
+  background-color: rgba(233, 233, 233, 0.5);
+}
+ /* rgba(255, 255, 255, 0.95); */
+
+
+ 

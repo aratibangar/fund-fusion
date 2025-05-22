@@ -1,0 +1,30 @@
+.social-icon {
+  display: inline-block;
+  margin: 0 10px;
+  color: #00A8E8; /* Sky Blue */
+  font-size: 22px;
+  transition: color 0.3s ease;
+}
+
+.social-icon:hover {
+  color: #F76C6C; /* Rose */
+}
+.footer-section{
+  background-color: rgb(5, 43, 80) !important;
+  color: white;
+  padding-top: 50px !important;
+}
+.whitec p{
+  color: white !important;
+}
+.list-unstyled li a {
+  color: white;
+  text-decoration: none !important;
+
+}
+.list-unstyled li a :hover {
+  color: #F76C6C !important; /* Rose */
+}
+.list-unstyled li :hover {
+  color: #F76C6C !important; /* Rose */
+}
